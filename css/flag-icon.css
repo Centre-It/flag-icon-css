@@ -1512,6 +1512,12 @@
 .flag-icon-zw.flag-icon-squared {
   background-image: url(../flags/1x1/zw.svg);
 }
+.flag-icon-eaeu {
+  background-image: url(../flags/4x3/eaeu.svg);
+}
+.flag-icon-eaeu.flag-icon-squared {
+  background-image: url(../flags/1x1/eaeu.svg);
+}
 .flag-icon-eu {
   background-image: url(../flags/4x3/eu.svg);
 }
